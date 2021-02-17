@@ -1,4 +1,4 @@
-name: "R CI workflow"
+name: "R matrix CI workflow macos"
 
 on:
   push:
